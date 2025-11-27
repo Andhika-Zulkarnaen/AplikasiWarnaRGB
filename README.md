@@ -1,7 +1,7 @@
 # 🎨 Aplikasi Warna RGB (Unity)
 
 AplikasiWarnaRGB adalah project Unity yang digunakan untuk mempelajari dan memvisualisasikan cara kerja kombinasi warna **Red (R), Green (G), dan Blue (B)** secara interaktif.  
-Pengguna dapat mengubah nilai tiap komponen RGB dan melihat hasil warnanya secara real-time.
+Pengguna dapat melihat nilai RGB pada setiap piksel gambar secara real-time.
 
 ---
 
@@ -56,23 +56,13 @@ Repository ini **tidak menyertakan** folder besar seperti *Library, Temp, Obj, L
 
 ---
 
-## 📦 Download APK
-APK hasil build dapat ditemukan di bagian:
+## 📦 Download APK (GitHub Release)
 
-👉 **GitHub Releases**  
-(Upload dengan menambahkan Release baru di GitHub)
+Versi APK terbaru dapat diunduh pada halaman:
 
----
+👉 **[Download Aplikasi (.apk)](https://github.com/Andhika-Zulkarnaen/AplikasiWarnaRGB/releases/tag/v1.0)**
 
-## 🧑‍💻 Credits
-
-Project dibuat oleh:  
-**Andhika Zulkarnaen**
-
-Jika ingin berkontribusi, silakan `fork` dan `pull request`.
-
----
 
 ## 📜 Lisensi
 
-Project ini menggunakan lisensi **MIT License**, sehingga bebas digunakan untuk pengembangan, pembelajaran, atau modifikasi.
+Project ini dirilis di bawah **MIT License**, sehingga bebas digunakan untuk pembelajaran, pengembangan, dan modifikasi.
