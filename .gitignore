@@ -1,0 +1,55 @@
+##############################
+# UNITY GITIGNORE (OPTIMIZED)
+##############################
+
+# === IGNORE UNITY GENERATED FOLDERS ===
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+.utmp/
+
+# === IGNORE VISUAL STUDIO / IDE ===
+.vscode/
+.vs/
+*.csproj
+*.sln
+*.unityproj
+*.pidb
+*.user
+*.unitypackage
+
+# === IGNORE BINARY FILES & DEVICE BUILDS ===
+*.exe
+*.apk
+*.aab
+*.app
+*.ipa
+*.dll
+*.pdb
+
+# === IGNORE UNITY BURST DEBUG INFO ===
+AplikasiWarnaRGB_BurstDebugInformation_DoNotShip/
+
+# === IGNORE TEMPORARY EDITOR FILES ===
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# === IGNORE PACKAGE MANAGER DOWNLOADS ===
+Packages/com.unity.*.*
+Packages/manifest-temp.json
+
+# === IGNORE LOG FILES ===
+*.log
+
+# === IGNORE UNITY CRASH HANDLER ===
+CrashReports/
+
+# === IGNORE MISC ===
+.DS_Store
+Thumbs.db
